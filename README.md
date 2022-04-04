@@ -7,11 +7,11 @@ watch the webinar recording on [youtube](https://www.youtube.com/watch?v=1ELZnje
 In the world of data, modeling can take on many forms. In this webinar, Serge Gershkovich, database architect and Snowflake data superhero, will demystify modeling by taking the users through every step of the design process. 
 
 ## We will learn: 
-How to use modeling to make sense of an unfamiliar database landscape
-Create new dimensions using the bus matrix
-Go from conceptual to physical modeling
-Use dbt to go from physical to transformational modeling 
-Transition from modeling to mapping to maintain a holistic view of our database
+* How to use modeling to make sense of an unfamiliar database landscape
+* Create new dimensions using the bus matrix
+* Go from conceptual to physical modeling
+* Use dbt to go from physical to transformational modeling 
+* Transition from modeling to mapping to maintain a holistic view of our database
 
 The examples in this session will demonstrate how “obvious” things can seem once a certain level of familiarity has been established. But we must not lose sight of how difficult the problem was initially - which is exactly how difficult others will find it when they approach it with fresh eyes. Modeling, in all its forms, is the process that can capture the familiarity that one person has attained and make it accessible to everyone else. 
 
