@@ -29,7 +29,7 @@ The best time to document is during the development phase, while the functional 
 ## Resources
 Snowflake sample data TPC H database 
 * https://docs.snowflake.com/en/user-guide/sample-data-tpch.html 
-
+* https://www.tpc.org/tpc_documents_current_versions/current_specifications5.asp 
 
 Bus matrix
 * https://docs.google.com/spreadsheets/d/1lOq8ZUVCwgowwfF-IHHetCzoIzqQLFJzRe43vEM0xxw/edit#gid=124604558 
