@@ -44,4 +44,7 @@ provided in this repository:
 * dbt source yaml
 * dbt models
 
+## Relational Model
+
+![model](relational_model.png)
 
